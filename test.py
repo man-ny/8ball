@@ -1,5 +1,6 @@
 import sys
 import random
+# this is an 8ball python script
 
 from setuptools.command.easy_install import sys_executable
 
