@@ -1,6 +1,7 @@
 import sys
 import random
 # this is an 8ball python script
+#Hello Manny- Try to swap out the While/if for an array. In other words enter the possible answers into an array.
 
 from setuptools.command.easy_install import sys_executable
 
